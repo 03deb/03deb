@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Competitive programming and DSA.
 - 💞️ I’m looking to collaborate on Frontend Development.
 - 📫 How to reach me ....
-- Instagram "@03_deb_official"
+- https://www.linkedin.com/in/tarun-kumar-189655233
 
 <!---
 03deb/03deb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
