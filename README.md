@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @03deb
+- 👋 Hi, I’m Tarun 
 - 👀 I’m interested in Programming, Web-Designing. 
 - 🌱 I’m currently learning Competitive programming and DSA.
 - 💞️ I’m looking to collaborate on Frontend Development.
